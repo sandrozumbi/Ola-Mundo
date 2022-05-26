@@ -2,6 +2,6 @@
 
  Primeiro Repositório Versionado
 
- Repositório criado na aula do Curso em Vídeo
+ Repositório **criado** na aula do *Curso* em Vídeo
 
-Essa linha eu adicionei direto nas nunvens
+Essa linha eu _adicionei_ direto nas nunvens
